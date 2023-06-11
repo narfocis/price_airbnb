@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 import airbnb
 
-from airbnb_price.web_scrape import extract_listing, extract_prices
+from price_airbnb.web_scrape import extract_listing, extract_prices
 
 
 def get_period_price_from_api(start_date, end_date):

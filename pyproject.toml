@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "airbnb-price"
+name = "price-airbnb"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
-packages = [{include = "airbnb_price"}]
+packages = [{include = "price_airbnb"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
